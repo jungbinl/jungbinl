@@ -15,12 +15,20 @@
 
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jungbinlee&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungbinlee&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=jungbinl&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jungbinl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jungbinl&theme=tokyonight)
+
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungbinl&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=jungbinlee&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophy](https://github-profile-trophy.vercel.app/?username=jungbinl&theme=tokyonight&row=1&column=6)
+
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jungbin-lee-097b10345/)
+
