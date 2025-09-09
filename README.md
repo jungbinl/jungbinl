@@ -17,7 +17,6 @@
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=jungbinl&theme=tokyonight&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jungbinl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jungbinl&theme=tokyonight)
 
 
 ## 💻 Most Used Languages
