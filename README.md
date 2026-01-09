@@ -13,24 +13,10 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jungbinl&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 📊 GitHub Stats ![GitHub Streak](https://streak-stats.demolab.com?user=jungbinl&theme=tokyonight&hide_border=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jungbinl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) 
 
-## 💻 Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungbinl&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+## 💻 Most Used Languages ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungbinl&layout=compact&theme=tokyonight&hide_border=true) 
 
-## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=jungbinl&theme=radical" alt="Trophy" />
-</p>
+## 🏆 GitHub Trophies ![Trophy](https://github-profile-trophy.vercel.app/?username=jungbinl&theme=tokyonight&row=1&column=6) 
 
----
-
-## 🌐 Socials
-<a href="https://linkedin.com/in/jungbinl">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+## 🌐 Socials [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jungbin-lee-097b10345/)
