@@ -15,22 +15,22 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ID_HERE&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jungbinl&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ## 💻 Most Used Languages
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID_HERE&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungbinl&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_ID_HERE&theme=radical" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jungbinl&theme=radical" alt="Trophy" />
 </p>
 
 ---
 
 ## 🌐 Socials
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+<a href="https://linkedin.com/in/jungbinl">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
